@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://clean-quality.github.io/sitemap.xml
